@@ -1,2 +1,2 @@
-# brosint
-Osinters from Brazil
+# BROSINT
+The OSINT community from Brazil
