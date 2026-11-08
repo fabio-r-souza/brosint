@@ -54,8 +54,7 @@ A BROSINT é pensada para iniciantes, estudantes, pesquisadores, profissionais d
 
 **Não importa o nível: o importante é a vontade de aprender e colaborar.**
 
-## Voluntariado e Projetos Sociais
-
+## <img src="https://img.icons8.com/?size=100&id=115351&format=png&color=000000" style="width:40px;height:40px;"> Voluntariado e Projetos Sociais
 - Projeto Doação Segura - Combate às fraudes e estelionato digitais no Brasil. [Em construção]
 
 ## 🚀 Como participar
