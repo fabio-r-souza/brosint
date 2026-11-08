@@ -66,8 +66,8 @@ Você pode fazer parte da comunidade de várias formas:
 
 ## 🔗 Redes e contato
 
-- **Discord:** link a ser adicionado
-- **LinkedIn:** link a ser adicionado
+- **Discord:** https://discord.gg/9KjTkvwsra
+- **LinkedIn:** em construção..
 
 ## 💡 Contribua
 
