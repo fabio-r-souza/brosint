@@ -17,7 +17,7 @@
 
 ## 🧭 Navegação
 
-[Sobre](#-sobre-a-brosint) · [OSINT](#-o-que-é-osint) · [Nossa proposta](#-nossa-proposta) · [Quem pode participar](#-para-quem-é-a-comunidade) · [Como participar](#-como-participar) · [Contato](#-redes-e-contato) · [Contribua](#-contribua)
+[Sobre](#-sobre-a-brosint) · [OSINT](#-o-que-é-osint) · [Nossa proposta](#-nossa-proposta) · [Quem pode participar](#-para-quem-é-a-comunidade) ·  [Voluntariado e Projeto Social](#-voluntariado-e-projetos-sociais) · [Como participar](#-como-participar) · [Contato](#-redes-e-contato) · [Contribua](#-contribua)
 
 ---
 
@@ -54,7 +54,7 @@ A BROSINT é pensada para iniciantes, estudantes, pesquisadores, profissionais d
 
 **Não importa o nível: o importante é a vontade de aprender e colaborar.**
 
-## Voluntariado (Projetos Sociais)
+## Voluntariado e Projetos Sociais
 
 - Projeto Doação Segura - Combate às fraudes e estelionato digitais no Brasil. [Em construção]
 
