@@ -1,85 +1,88 @@
-# BROSINT
-## Comunidade Brasileira de OSINT
+<div align="center">
 
-BR OSINT (BROSINT) é a comunidade brasileira dedicada ao estudo, à prática e à troca de conhecimento sobre Open Source Intelligence (OSINT) e temas relacionados.
+# 🇧🇷 BROSINT
+### Comunidade Brasileira de OSINT
+
+**Aprenda, compartilhe conhecimento e evolua com a comunidade brasileira de inteligência de fontes abertas.**
+
+[![OSINT](https://img.shields.io/badge/tema-OSINT-1f6feb?style=for-the-badge)](https://pt.wikipedia.org/wiki/Intelig%C3%AAncia_de_fontes_abertas)
+[![Comunidade](https://img.shields.io/badge/comunidade-Brasil-green?style=for-the-badge)](https://github.com/fabio-r-souza/brosint)
+[![Idioma](https://img.shields.io/badge/idioma-Portugu%C3%AAs-brightgreen?style=for-the-badge)](README.md)
+
+</div>
+
+---
+
+## 🧭 Navegação
+
+[Sobre](#-sobre-a-brosint) · [OSINT](#-o-que-é-osint) · [Nossa proposta](#-nossa-proposta) · [Quem pode participar](#-para-quem-é-a-comunidade) · [Como participar](#-como-participar) · [Contato](#-redes-e-contato) · [Contribua](#-contribua)
+
+---
+
+## 👋 Sobre a BROSINT
+
+BR OSINT (BROSINT) é a comunidade brasileira dedicada ao estudo, à prática e à troca de conhecimento sobre **Open Source Intelligence (OSINT)** e temas relacionados.
 
 Nossa missão é criar um espaço acessível, colaborativo e profissional para pessoas que desejam aprender, desenvolver habilidades, compartilhar conhecimento e contribuir para a comunidade de inteligência de fontes abertas no Brasil.
 
-> “Conhecimento não é aquilo que você sabe, mas o que você faz com aquilo que você sabe.” — Aldous Huxley  
-> “O conhecimento serve para encantar as pessoas. Não para humilhá-las.” — Mário Sérgio Cortella  
-> “O conhecimento se adquire e a virtude se exercita.” — Desconhecido
+## 🔎 O que é OSINT?
 
----
+OSINT (*Open Source Intelligence*) é a coleta, análise e interpretação de informações públicas disponíveis em fontes abertas, como:
 
-## O que é OSINT?
-
-OSINT (Open Source Intelligence) é a coleta, análise e interpretação de informações públicas disponíveis em fontes abertas, como:
-- redes sociais
-- notícias
-- documentos públicos
-- registros públicos
-- dados abertos
-- conteúdo disponível na internet
+- 🌐 Redes sociais e conteúdo disponível na internet
+- 📰 Notícias e publicações
+- 📄 Documentos e registros públicos
+- 📊 Dados abertos
 
 O objetivo não é apenas encontrar informações, mas também analisá-las de forma ética, crítica e útil.
 
----
-
-## Nossa proposta
+## 🎯 Nossa proposta
 
 A BROSINT foi criada para:
-- difundir conhecimento sobre OSINT e áreas afins
-- conectar pessoas interessadas no tema
-- incentivar aprendizado contínuo e troca de experiências
-- promover uma comunidade respeitosa, ética e colaborativa
-- apoiar iniciantes e profissionais em diferentes níveis
 
----
+- 📚 Difundir conhecimento sobre OSINT e áreas afins
+- 🤝 Conectar pessoas interessadas no tema
+- 🌱 Incentivar o aprendizado contínuo e a troca de experiências
+- 🛡️ Promover uma comunidade respeitosa, ética e colaborativa
+- 🧭 Apoiar iniciantes e profissionais em diferentes níveis
 
-## Para quem é a comunidade?
+## 👥 Para quem é a comunidade?
 
-A BROSINT é pensada para:
-- iniciantes que querem aprender sobre OSINT
-- estudantes e pesquisadores
-- profissionais de segurança, análise, tecnologia e comunicação
-- qualquer pessoa curiosa sobre investigação e análise de informações públicas
+A BROSINT é pensada para iniciantes, estudantes, pesquisadores, profissionais de segurança, análise, tecnologia e comunicação — e para qualquer pessoa curiosa sobre investigação e análise de informações públicas.
 
-Não importa o nível — o importante é a vontade de aprender e colaborar.
+**Não importa o nível: o importante é a vontade de aprender e colaborar.**
 
----
-
-## Como participar
+## 🚀 Como participar
 
 Você pode fazer parte da comunidade de várias formas:
-- acompanhando conteúdos e discussões
-- compartilhando materiais e experiências
-- participando de debates
-- contribuindo com ideias, sugestões e projetos
-- ajudando outros membros a evoluir
 
-Se você gosta de aprender, compartilhar conhecimento e crescer junto com a comunidade, você já faz parte do espírito BROSINT.
+- Acompanhar conteúdos e discussões
+- Compartilhar materiais e experiências
+- Participar de debates
+- Contribuir com ideias, sugestões e projetos
+- Ajudar outras pessoas a evoluir
 
----
+## 🔗 Redes e contato
 
-## Redes e contato
+- **Discord:** link a ser adicionado
+- **LinkedIn:** link a ser adicionado
 
-- Discord: [Adicionar link]
-- LinkedIn: [Adicionar link]
-- GitHub: [Adicionar link]
-- E-mail: [Adicionar e-mail ou contato]
-
----
-
-## Contribua
+## 💡 Contribua
 
 A comunidade cresce com colaboração. Se você tem conhecimento para compartilhar, ideias para propor ou conteúdo para contribuir, fique à vontade para participar.
 
-Seja um BROSINTR!
+### **Estude, evolua, ajude. Seja um BROSINTR!**
 
 ---
 
-## Mensagem final
+<div align="center">
 
-A BROSINT é uma comunidade de aprendizado, troca e apoio. Nosso objetivo é construir um ambiente onde conhecimento seja compartilhado de forma aberta, respeitosa e útil para todos.
+> “Conhecimento não é aquilo que você sabe, mas o que você faz com aquilo que você sabe.” — Aldous Huxley
+>
+> “O conhecimento serve para encantar as pessoas. Não para humilhá-las.” — Mário Sérgio Cortella
+>
+> “O conhecimento se adquire e a virtude se exercita.” — Sabedoria popular
 
-Seja bem-vindo(a) e venha crescer conosco.
+**Seja bem-vindo(a) à BROSINT!** 🇧🇷
+
+</div>
