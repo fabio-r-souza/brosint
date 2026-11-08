@@ -54,6 +54,10 @@ A BROSINT é pensada para iniciantes, estudantes, pesquisadores, profissionais d
 
 **Não importa o nível: o importante é a vontade de aprender e colaborar.**
 
+## Voluntariado
+
+- Projeto Doação Segura - Em construção
+
 ## 🚀 Como participar
 
 Você pode fazer parte da comunidade de várias formas:
