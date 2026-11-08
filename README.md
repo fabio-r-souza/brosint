@@ -23,7 +23,7 @@
 
 BR OSINT (BROSINT) é a comunidade brasileira dedicada ao estudo, à prática e à troca de conhecimento sobre **Open Source Intelligence (OSINT)** e temas relacionados.
 
-Nossa missão é criar um espaço acessível, colaborativo e profissional para pessoas que desejam aprender, desenvolver habilidades, compartilhar conhecimento e contribuir para a comunidade de inteligência de fontes abertas no Brasil.
+Nossa missão é criar um espaço acessível, colaborativo e profissional para pessoas que desejam aprender, desenvolver habilidades, compartilhar conhecimento e contribuir para a comunidade de inteligência de fontes abertas no Brasil, além de criar iniciativas de ajuda às comunidades do Brasil.
 
 ## 🔎 O que é OSINT?
 
@@ -41,8 +41,8 @@ O objetivo não é apenas encontrar informações, mas também analisá-las de f
 A BROSINT foi criada para:
 
 - 📚 Difundir conhecimento sobre OSINT e áreas afins
-- 🤝 Conectar pessoas interessadas no tema
-- 🌱 Incentivar o aprendizado contínuo e a troca de experiências
+- 🤝 Conectar pessoas interessadas no tema e incentivar a troca de experiências
+- 🌱 Voluntariado Digital, ajudando na prática as pessoas, comunidades e projetos com o uso do OSINT
 - 🛡️ Promover uma comunidade respeitosa, ética e colaborativa
 - 🧭 Apoiar iniciantes e profissionais em diferentes níveis
 
