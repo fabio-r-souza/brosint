@@ -3,9 +3,9 @@
 <img src="brosint-logo.png"> 
   
 # 🇧🇷 BROSINT
-### Comunidade Brasileira de OSINT
+### Comunidade Brasileira de OSINT para apoio às boas e justas causas.
 
-**Aprenda, compartilhe conhecimento e evolua com a comunidade brasileira de inteligência de fontes abertas.**
+**Aprenda, compartilhe conhecimento, ajude os necessitados e evolua com a comunidade brasileira de OSINT (inteligência de fontes abertas).**
 
 [![OSINT](https://img.shields.io/badge/tema-OSINT-1f6feb?style=for-the-badge)](https://pt.wikipedia.org/wiki/Intelig%C3%AAncia_de_fontes_abertas)
 [![Comunidade](https://img.shields.io/badge/comunidade-Brasil-green?style=for-the-badge)](https://github.com/fabio-r-souza/brosint)
@@ -54,9 +54,9 @@ A BROSINT é pensada para iniciantes, estudantes, pesquisadores, profissionais d
 
 **Não importa o nível: o importante é a vontade de aprender e colaborar.**
 
-## Voluntariado
+## Voluntariado (Projetos Sociais)
 
-- Projeto Doação Segura - Em construção
+- Projeto Doação Segura - Combate às fraudes e estelionato digitais no Brasil. [Em construção]
 
 ## 🚀 Como participar
 
