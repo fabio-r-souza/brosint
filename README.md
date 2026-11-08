@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="logo.png" alt="Girl in a jacket"> 
+  
 # 🇧🇷 BROSINT
 ### Comunidade Brasileira de OSINT
 
