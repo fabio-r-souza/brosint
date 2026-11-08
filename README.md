@@ -17,7 +17,7 @@
 
 ## 🧭 Navegação
 
-[Sobre](#-sobre-a-brosint) · [OSINT](#-o-que-é-osint) · [Nossa proposta](#-nossa-proposta) · [Quem pode participar](#-para-quem-é-a-comunidade) ·  [Voluntariado e Projeto Social](#-voluntariado-e-projetos-sociais) · [Como participar](#-como-participar) · [Contato](#-redes-e-contato) · [Contribua](#-contribua)
+[Sobre](#-sobre-a-brosint) · [OSINT](#-o-que-é-osint) · [Nossa proposta](#-nossa-proposta) · [Quem pode participar](#-para-quem-é-a-comunidade) · [Voluntariado e Projeto Social](#-voluntariado-e-projetos-sociais) · [Como participar](#-como-participar) · [Contato](#-redes-e-contato) · [Contribua](#-contribua)
 
 ---
 
